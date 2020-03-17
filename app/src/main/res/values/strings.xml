@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Soccer League</string>
+    <string name="appbar_image_cd">Appbar Image</string>
+    <string name="league_detail_string">League Detail</string>
+    <string name="league_name_dummy">Premier League</string>
+    <string name="league_country_dummy">England</string>
+    <string name="detail_league_dummy">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo</string>
+</resources>
